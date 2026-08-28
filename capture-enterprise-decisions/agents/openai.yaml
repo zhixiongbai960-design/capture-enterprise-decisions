@@ -1,0 +1,4 @@
+interface:
+  display_name: "企业决策记录"
+  short_description: "把管理者的选择、依据、取舍、行动与结果沉淀为可复盘资产"
+  default_prompt: "Use $capture-enterprise-decisions to record this management decision as a traceable enterprise asset."
